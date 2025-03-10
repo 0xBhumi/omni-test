@@ -1,0 +1,17 @@
+{
+    "chains": [
+        420120000,
+        420120001
+    ],
+    "factoryContract": "0x5a0632d24ddae5B4CB511aBB134561b9396473b4",
+    "hubContract": "HubContract",
+    "spokeContract": "SpokeContract",
+    "hubConstructorArgs": [
+        "0x527A1489645c78B44CD7145aE7971A830e94A193"
+    ],
+    "spokeConstructorArgs": [
+        "0x5a0632d24ddae5B4CB511aBB134561b9396473b4"
+    ],
+    "salt": "hsDeploy",
+    "rpcUrl": "https://interop-alpha-0.optimism.io"
+}
